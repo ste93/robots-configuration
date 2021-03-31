@@ -5,6 +5,7 @@
     <devices>
         <xi:include href="./sensors/realsense2.xml" />
         <xi:include href="./wrappers/camera/pointcloudsensor_ros.xml" />
+        <xi:include href="./wrappers/camera/pointcloudsensor_ros2.xml" />
         <xi:include href="./wrappers/camera/rgbdsensor_ros.xml" />
         <xi:include href="./wrappers/camera/rgbdsensor_yarp.xml" />
     </devices>
